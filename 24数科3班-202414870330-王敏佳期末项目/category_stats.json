@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "外语",
+    "book_count": 5,
+    "avg_price": 59.0,
+    "avg_rating": 4.32,
+    "stock_total": 72
+  },
+  {
+    "_id": "经济管理",
+    "book_count": 7,
+    "avg_price": 90.85714285714286,
+    "avg_rating": 4.3,
+    "stock_total": 64
+  },
+  {
+    "_id": "计算机",
+    "book_count": 15,
+    "avg_price": 89.53333333333333,
+    "avg_rating": 4.533333333333333,
+    "stock_total": 172
+  },
+  {
+    "_id": "文学",
+    "book_count": 12,
+    "avg_price": 47.01666666666667,
+    "avg_rating": 4.625,
+    "stock_total": 181
+  },
+  {
+    "_id": "历史",
+    "book_count": 5,
+    "avg_price": 95.6,
+    "avg_rating": 4.66,
+    "stock_total": 50
+  },
+  {
+    "_id": "数学",
+    "book_count": 6,
+    "avg_price": 40.666666666666664,
+    "avg_rating": 4.433333333333334,
+    "stock_total": 122
+  }
+]
